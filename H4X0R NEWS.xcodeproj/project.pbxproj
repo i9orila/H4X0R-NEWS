@@ -84,6 +84,7 @@
 				ED33663328A5104D004AD142 /* Models */,
 				EDF0C78D2896EC7C00E14655 /* H4X0R_NEWS.xcdatamodeld */,
 				EDE566C128A6B9C100C4890B /* Persistence.swift */,
+				EDF0C7862896EC7C00E14655 /* Assets.xcassets */,
 				EDF0C7882896EC7C00E14655 /* Preview Content */,
 			);
 			path = "H4X0R NEWS";
@@ -93,7 +94,6 @@
 			isa = PBXGroup;
 			children = (
 				EDF0C7892896EC7C00E14655 /* Preview Assets.xcassets */,
-				EDF0C7862896EC7C00E14655 /* Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
